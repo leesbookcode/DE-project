@@ -55,3 +55,8 @@ logs/
 .DS_Store
 Thumbs.db
 
+# 项目特定
+.cache/
+extracted_content/
+knowledge_base/
+
