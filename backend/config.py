@@ -1,5 +1,4 @@
-# config.py
-# 注意：此文件包含敏感信息（如API密钥），请勿提交到代码仓库（已在.gitignore中忽略）
+
 
 # OpenAI compatible API base address
 # Official OpenAI: https://api.openai.com
